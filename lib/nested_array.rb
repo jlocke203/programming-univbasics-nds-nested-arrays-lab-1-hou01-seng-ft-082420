@@ -45,7 +45,7 @@ def matrix_lookup(matrix, row, column)
     ["Oranges", "Pineapple", "Watermelon"],
      ["Grapes", "Potatoes", "Strawberries"] 
     ]
-    sorted_matrix[3][1]
+    sorted_matrix[0][1]
   
 end
 
