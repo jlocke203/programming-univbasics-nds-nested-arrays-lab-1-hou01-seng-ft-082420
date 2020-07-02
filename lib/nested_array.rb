@@ -42,10 +42,10 @@ def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
   sorted_matrix = [ 
-    ["Eggplant", "Grapefruit", "Oranges"],
-    ["Asparagus", "Avocadoes", "Grapes"] 
+    ["Eggplant", "Grapefruit", "Oranges", "Pineapple"],
+    ["Asparagus", "Avocadoes", "Grapes", "Potatoes"] 
     ]
-    sorted_matrix[1][0]
+    sorted_matrix[3][1]
   
 end
 
