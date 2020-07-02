@@ -43,7 +43,7 @@ def matrix_lookup(matrix, row, column)
   # Return the matrix's content at that row and and column
   sorted_matrix = [ 
     ["Eggplant", "Grapefruit", "Oranges"],
-    ["Asparagus", "Avocadoes", "Grapes"] 
+    ["Potatoes", "Avocadoes", "Grapes"] 
     ]
     sorted_matrix[1][0]
   
