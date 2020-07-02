@@ -60,6 +60,6 @@ def matrix_update(matrix, row, column, new_value)
      ["Grapefruit", "Pineapple", "Lemons", "Watermelon", "Eggplant"],
     ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"] 
   ]
-  sorted_matrix[1][3] = "new_value"
+  sorted_matrix[0][2] = "Onions"
   sorted_matrix
 end
