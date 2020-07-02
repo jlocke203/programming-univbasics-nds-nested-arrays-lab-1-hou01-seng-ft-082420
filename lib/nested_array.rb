@@ -57,7 +57,7 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
   sorted_matrix = [ 
     
-     ["Grapefruit", "Pineapple", "Lemoons", "Watermelon", "Eggplant"],
+     ["Grapefruit", "Pineapple", "Lemons", "Watermelon", "Eggplant"],
     ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"] 
   ]
   sorted_matrix[1][3] = "new_value"
